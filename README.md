@@ -1,6 +1,7 @@
 # Sobre a API Rest
 
-No projeto será abordado conceitos importantes sobre o sistema.
+No projeto será desenvolvido sistema de consulta de pessoas e cidades, com validação de
+dados, SQL e testes segurança.
 - Endpoints
 - Controllers
 - Banco de dados SQL
